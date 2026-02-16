@@ -39,15 +39,14 @@ title: 石倉誠也 (Seiya Ishikura)
 
 - **言語処理学会 第31回年次大会 2025**（ポスター）
   - タイトル: 思考発話を利用した個人の発話及び性格特性再現  
-  - 論文URL：https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P10-20.pdf
+  - 論文URL：[https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P10-20.pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P10-20.pdf)
 
-- **PALS Workshop @ EMNLP2025**（ポスター）
+- **PALS Workshop@EMNLP2025**（ポスター）
   - タイトル：Augmenting Dialog with Think-Aloud Utterances for Modeling Individual Personality Traits by LLM  
-  - 論文URL：https://arxiv.org/abs/2510.09158
+  - 論文URL：[https://arxiv.org/abs/2510.09158](https://arxiv.org/abs/2510.09158)
 
 - **言語処理学会 第32回年次大会 2026**（ポスター）
   - タイトル：言語モデルにおける語と色の連想関係のアライメント
   - 論文URL：未公開
-
 
 
