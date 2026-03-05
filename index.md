@@ -47,6 +47,6 @@ title: 石倉誠也 (Seiya Ishikura)
 
 - **言語処理学会 第32回年次大会 2026**（ポスター）
   - タイトル：言語モデルにおける語と色の連想関係のアライメント
-  - 論文URL：未公開
+  - 論文URL：[https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B4-17.pdf](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B4-17.pdf)
 
 
